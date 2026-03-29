@@ -7,11 +7,9 @@
 //@TradutorMorseBot
 
 // --- Configurações WiFi ---
-// const char* ssid = "brisa-2846344";
-// const char* password = "idi2j1ke";
+// const char* ssid = "nome_da_rede";
+// const char* password = "senha_da_rede";
 
-const char* ssid = "williane";
-const char* password = "enailliw";
 
 // --- Configurações Telegram ---
 #define BOT_TOKEN "8415451527:AAH_PdB19DBFTxVX7Bb-AalmIp-jz1CxR3s" 
